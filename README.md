@@ -17,3 +17,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### Live solution
+https://github.com/rawisou/nft-card-preview-html-css
