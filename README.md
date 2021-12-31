@@ -19,4 +19,4 @@ Users should be able to:
 - Flexbox
 
 ### Live solution
-https://github.com/rawisou/nft-card-preview-html-css
+https://nft-card-preview-challenge.netlify.app/
