@@ -4,7 +4,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Overview
 
-This is my first real HTML and CSS challenge that allows me to I practise flexbox and interactive elements. 
+This is my first real HTML and CSS challenge that allows me to practise flexbox and interactive elements. 
 
 ### The challenge
 
